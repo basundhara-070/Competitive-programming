@@ -1,4 +1,4 @@
-# Competitive-programming alogorithms
+# Competitive-programming : Number theory alogorithms
 1. Primality test
 2. Prime Factorization
 3. Sieve of erastosthenes
